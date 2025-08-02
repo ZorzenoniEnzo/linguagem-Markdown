@@ -9,15 +9,15 @@ Itálico -> *EXEMPLO* Ou _EXEMPLO_
 
 Texto tachado -> ~~EXEMPLO~~ 
 
-Título 1(Grande) -> #EXEMPLO
+Título 1(Grande) -> # EXEMPLO
 
+Título 2(Médio) -> ## EXEMPLO
 
-Título 2(Médio) -> ##EXEMPLO
+Título 3 (Peq.) -> ### EXEMPLO
 
-Título 3 (Peq.) -> ###EXEMPLO
-
-Linha horizontal em baixo do título1 ->#EXEMPLO
- *** Ou ---
+Linha horizontal em baixo do título1 ->
+#EXEMPLO
+ ***
 
  Negrito e Itálico -> __*EXEMPLO*__
  
