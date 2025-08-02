@@ -20,5 +20,13 @@ Linha horizontal em baixo do título1 ->#EXEMPLO
 
 Subitem -> 3 espaços no começo do texto.
 
-Lista demarcada -> 
+Lista demarcada -> *EXEMPLO1
+                   *EXEMPLO2
+                      *EXEMPLO3
+
+Lista de tarefas -> - [x] EXEMPLO1
+                    - []EXEMPLO2
+                    - [x]EXEMPLO3
+                    - [x]EXEMPLO4
+Quando finalizada a tarefa, digitar um X dentro dos colchetes para concluir a tarefa.    
 
