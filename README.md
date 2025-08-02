@@ -7,7 +7,7 @@ Negrito -> **EXEMPLO** Ou __EXEMPLO__
 
 Itálico -> *EXEMPLO* Ou _EXEMPLO_ 
 
-Sublinhado -> ~~EXEMPLO~~ 
+Texto tachado -> ~~EXEMPLO~~ 
 
 Título 1(Grande) -> #EXEMPLO
 
