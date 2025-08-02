@@ -25,9 +25,9 @@ Linha horizontal em baixo do título1 ->
  
  1. EXEMPLO1                
  2. EXEMPLO2                  
- 3. EXEMPLO3                                 
- 93. EXEMPLO4              
- 0. EXEMPLO5
+    3. EXEMPLO3                                  
+ 4. EXEMPLO4              
+    5. EXEMPLO5
 
 Subitem -> 3 espaços no começo do texto.
 
