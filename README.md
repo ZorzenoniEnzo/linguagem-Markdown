@@ -1,7 +1,7 @@
 # Linguagem-Markdown
 Repositório de prática em linguagem Markdown
 
-(Abrir arquivo README.md e selecionar aba CODES para visualizar as marcações)
+(Abrir arquivo README.md e selecionar aba CODE para visualizar as marcações)
 
 Negrito -> **EXEMPLO** Ou __EXEMPLO__
 Itálico -> *EXEMPLO* Ou _EXEMPLO_   
