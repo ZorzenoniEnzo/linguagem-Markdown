@@ -1,6 +1,8 @@
 # Linguagem-Markdown
 Repositório de prática em linguagem Markdown
 
+(Abrir arquivo README.md e selecionar aba CODES para visualizar as marcações)
+
 Negrito -> **EXEMPLO** Ou __EXEMPLO__
 Itálico -> *EXEMPLO* Ou _EXEMPLO_   
 Sublinhado -> ~~EXEMPLO~~ 
